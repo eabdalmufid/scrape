@@ -1,0 +1,241 @@
+[
+  {
+    "waktu": "08/02/2024 01:31:03 WIB",
+    "lintang": "7.64 LS",
+    "bujur": "106.91 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 80 km BaratDaya Kota Sukabumi",
+    "warning": [
+      "II Kab. Sukabumi",
+      "II Kab. Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 21:05:24 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "140.27 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "92 Km",
+    "wilayah": "Pusat gempa berada di darat 66 km Barat Laut Pegunungan Bintang",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 19:38:46 WIB",
+    "lintang": "0.42 LS",
+    "bujur": "124.27 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
+    "warning": [
+      "II - III Banggai Laut"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 17:25:16 WIB",
+    "lintang": "0.77 LU",
+    "bujur": "121.38 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "73 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Buol",
+    "warning": [
+      "III Tolitoli",
+      "III Pohuwatu",
+      "II - III Boalemo"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 08:27:54 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat laut Kab. Cianjur",
+    "warning": [
+      "II Pacet",
+      "II Cugenang",
+      "II Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 08:25:23 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km Baratlaut Cianjur",
+    "warning": [
+      "III Pacet",
+      "III Cugenang",
+      "III Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 07:52:22 WIB",
+    "lintang": "2.14 LS",
+    "bujur": "100.41 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km BaratDaya Pesisir Selatan",
+    "warning": [
+      "III Mentawai",
+      "III Padang",
+      "III Agam",
+      "III Padang Pariaman",
+      "II Pesisir Selatan",
+      "II Padang Panjang",
+      "II Bukittinggi"
+    ]
+  },
+  {
+    "waktu": "04/02/2024 11:41:57 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "133.32 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Kebar",
+    "warning": [
+      "II Tambrauw"
+    ]
+  },
+  {
+    "waktu": "03/02/2024 15:25:10 WIB",
+    "lintang": "2.49 LU",
+    "bujur": "127.06 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Barat Laut Pulau Doi",
+    "warning": [
+      "II-III Tobelo"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 20:03:08 WIB",
+    "lintang": "6.08 LS",
+    "bujur": "104.3 BT",
+    "magnitudo": "4",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km BaratDaya Tanggamus",
+    "warning": [
+      "II Kota Agung"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 17:21:36 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "107.62 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km Tenggara Kab. Bandung",
+    "warning": [
+      "II-III Pangalengan",
+      "II-III Cibereum",
+      "II-III Cikajang",
+      "II-III Bungbulang"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 12:02:21 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "124.59 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Alor",
+    "warning": [
+      "II Alor"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 10:46:31 WIB",
+    "lintang": "7.32 LS",
+    "bujur": "107.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Tenggara Kab. Bandung",
+    "warning": [
+      "II-III Pangalengan",
+      "II-III Cibereum",
+      "II-III Bungbulang"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 06:07:30 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "138.21 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km TimurLaut Mamberamoraya",
+    "warning": [
+      "II Kab. Sarmi"
+    ]
+  },
+  {
+    "waktu": "01/02/2024 18:36:28 WIB",
+    "lintang": "10.2 LS",
+    "bujur": "124.04 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km Tenggara Kabupaten Kupang",
+    "warning": [
+      "II Kabupaten Kupang"
+    ]
+  },
+  {
+    "waktu": "31/01/2024 19:50:21 WIB",
+    "lintang": "2.95 LS",
+    "bujur": "119.39 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
+    "waktu": "31/01/2024 02:39:46 WIB",
+    "lintang": "8.81 LS",
+    "bujur": "115.82 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada dilaut 37 km BaratDaya Lombok Barat",
+    "warning": [
+      "II Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "30/01/2024 08:38:49 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "102.42 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km BaratDaya RajangLebong",
+    "warning": [
+      "III Kepahiang"
+    ]
+  },
+  {
+    "waktu": "29/01/2024 11:08:31 WIB",
+    "lintang": "4.03 LS",
+    "bujur": "122.4 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Ranomeeto Barat, Kab.",
+    "warning": [
+      "II Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "28/01/2024 09:30:06 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "130.5 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 Km Utara Bula-SBT",
+    "warning": [
+      "II-III Bula"
+    ]
+  }
+]
