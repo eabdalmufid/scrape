@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "key": "adam",
+      "nama": "Nabi Adam",
+      "kisah": "Nabi Adam adalah manusia pertama yang diciptakan oleh Allah. Ia tinggal di Surga bersama istrinya, Hawa. Mereka diberi kebebasan untuk tinggal di mana saja di Surga, kecuali dekat pohon terlarang. Namun, Iblis membujuk mereka untuk memakan buah dari pohon tersebut. Akibatnya, mereka diusir dari Surga dan diutus ke dunia sebagai manusia. Nabi Adam dan Hawa merupakan orang tua bagi seluruh umat manusia.",
+      "pesan_penting": "Kisah Nabi Adam mengajarkan tentang pentingnya taat kepada Allah dan menjaga diri dari godaan syaitan. Meskipun jatuh ke dalam dosa, Adam dan Hawa menunjukkan kerendahan hati mereka dan memohon pengampunan kepada Allah.",
+      "tempat_kelahiran": "Surga",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 2,
+      "key": "idris",
+      "nama": "Nabi Idris",
+      "kisah": "Nabi Idris adalah nabi yang dikenal dalam tradisi Islam dan juga disebutkan dalam beberapa kitab lain, seperti Kitab Henokh dalam tradisi Yahudi dan Kristen. Ia dikenal sebagai nabi yang bijaksana dan diangkat menjadi contoh ketekunan dan kesalehan.",
+      "pesan_penting": "Kisah Nabi Idris mengajarkan tentang pentingnya berjalan di jalan Allah dengan ketekunan dan ketabahan. Ia juga menunjukkan pentingnya menjaga iman dan tetap beribadah dalam segala situasi.",
+      "tempat_kelahiran": "Babel, Mesopotamia",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 3,
+      "key": "nuh",
+      "nama": "Nabi Nuh",
+      "kisah": "Nabi Nuh adalah nabi yang diutus oleh Allah untuk memperingatkan umat manusia akan banjir besar yang akan datang. Allah memerintahkan Nabi Nuh untuk membangun bahtera besar untuk menyelamatkan dirinya beserta hewan-hewan dari banjir tersebut.",
+      "pesan_penting": "Kisah Nabi Nuh mengajarkan tentang pentingnya kesetiaan kepada Allah dan keberanian untuk berdiri teguh dalam menghadapi tantangan.",
+      "tempat_kelahiran": "Tidak diketahui",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Gunung Judi",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 4,
+      "key": "hud",
+      "nama": "Nabi Hud",
+      "kisah": "Nabi Hud adalah nabi yang diutus oleh Allah untuk membimbing suku 'Ad, sebuah suku yang dikenal memiliki kekuatan dan kekayaan. Namun, mereka menyimpang dari jalan yang benar dan mengabaikan peringatan Nabi Hud. Allah menghancurkan mereka karena keingkaran mereka.",
+      "pesan_penting": "Kisah Nabi Hud mengajarkan tentang pentingnya tunduk kepada Allah dan menjauhi kesombongan. Beliau juga mengingatkan tentang bahaya mengikuti hawa nafsu dan melanggar perintah-Nya.",
+      "tempat_kelahiran": "Al-Ahqaf, Yaman",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 5,
+      "key": "saleh",
+      "nama": "Nabi Saleh",
+      "kisah": "Nabi Saleh adalah nabi yang diutus oleh Allah untuk suku Thamud. Ia datang dengan pesan untuk mengajak mereka menyembah Allah yang Esa dan menjauhi penyembahan berhala. Namun, suku Thamud menolak dan melanggar peringatan Nabi Saleh. Akhirnya, mereka dihancurkan oleh Allah.",
+      "pesan_penting": "Kisah Nabi Saleh mengajarkan pentingnya patuh kepada perintah Allah dan menjauhi penyembahan berhala. Ia juga menekankan konsekuensi dari keingkaran terhadap nabi dan ajarannya.",
+      "tempat_kelahiran": "Madain Saleh, Arab Saudi",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 6,
+      "key": "ibrahim",
+      "nama": "Nabi Ibrahim",
+      "kisah": "Nabi Ibrahim adalah nabi yang dikenal sebagai bapak semua nabi dalam tradisi Islam. Ia dikenal karena keteguhan imannya dan ketaatannya kepada Allah. Nabi Ibrahim juga mengalami ujian besar dengan perintah Allah untuk menyembelih putranya, Isma'il, sebagai bentuk pengorbanan.",
+      "pesan_penting": "Kisah Nabi Ibrahim mengajarkan tentang tawakkal dan kesetiaan kepada Allah dalam menghadapi ujian hidup. Beliau juga menunjukkan contoh pengorbanan dan ketaatan yang luar biasa kepada Allah.",
+      "tempat_kelahiran": "Ur, Chaldea",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Hebron, Kanaan",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 7,
+      "key": "ismail",
+      "nama": "Nabi Ismail",
+      "kisah": "Nabi Ismail adalah anak dari Nabi Ibrahim dan Hajar. Ia dikenal atas pengorbanan dan tawakkalnya saat ditinggalkan oleh ibunya di padang pasir. Allah memberikan berkah kepada Nabi Ismail dan keturunannya, termasuk suku Arab.",
+      "pesan_penting": "Kisah Nabi Ismail mengajarkan tentang tawakkal dan keyakinan bahwa Allah akan memberikan pertolongan kepada hamba-Nya. Beliau juga menunjukkan arti pengorbanan dan kesetiaan terhadap rencana Allah.",
+      "tempat_kelahiran": "Mekah, Arab Saudi",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Mekah, Arab Saudi",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 8,
+      "key": "luth",
+      "nama": "Nabi Luth",
+      "kisah": "Nabi Luth diutus oleh Allah untuk mengingatkan suku-suku Lot di daerah Sodom dan Gomorrah tentang perilaku buruk mereka yang melibatkan homoseksualitas dan pelanggaran etika. Namun, suku-suku tersebut tidak mendengarkan peringatan Nabi Luth, dan Allah menghancurkan kota-kota tersebut.",
+      "pesan_penting": "Kisah Nabi Luth mengajarkan tentang pentingnya mematuhi norma moral dan etika yang ditetapkan oleh Allah. Beliau juga menunjukkan betapa seriusnya akibat tindakan-tindakan yang melanggar prinsip-prinsip agama.",
+      "tempat_kelahiran": "Ur, Chaldea",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 9,
+      "key": "ishaq",
+      "nama": "Nabi Ishaq",
+      "kisah": "Nabi Ishaq adalah anak dari Nabi Ibrahim dan Sarah. Ia juga dianggap sebagai nabi dalam tradisi agama Yahudi, Kristen, dan Islam. Nabi Ishaq memiliki peran penting dalam silsilah para nabi dan keluarga Ibrahim.",
+      "pesan_penting": "Kisah Nabi Ishaq mengajarkan tentang janji Allah yang dipenuhi dan kelanjutan rencana-Nya melalui keturunannya. Beliau juga menunjukkan pentingnya iman dalam menghadapi ujian hidup.",
+      "tempat_kelahiran": "Hebron, Kanaan",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Hebron, Kanaan",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 10,
+      "key": "yaqub",
+      "nama": "Nabi Yaqub",
+      "kisah": "Nabi Yaqub adalah anak dari Nabi Ishaq dan cucu dari Nabi Ibrahim. Ia dikenal atas kisahnya yang penuh ujian, termasuk persaingan di antara anak-anaknya dan pengalaman perpisahan dengan putra kesayangannya, Nabi Yusuf. Nabi Yaqub juga dikenal dengan nama Israel dalam tradisi Yahudi.",
+      "pesan_penting": "Kisah Nabi Yaqub mengajarkan tentang kesabaran dalam menghadapi ujian dan tantangan kehidupan. Beliau juga menunjukkan betapa Allah menguji hamba-hamba-Nya dan memberikan kebijaksanaan dalam menghadapi konflik dalam keluarga.",
+      "tempat_kelahiran": "Hebron, Kanaan",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Mesir",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 11,
+      "key": "yusuf",
+      "nama": "Nabi Yusuf",
+      "kisah": "Nabi Yusuf adalah putra dari Nabi Yaqub dan saudara dari dua belas saudara lainnya. Ia dikenal atas kisahnya yang penuh ujian, termasuk pengkhianatan saudara-saudaranya, penjualan sebagai budak, dan penjara yang dijalani. Nabi Yusuf kemudian diangkat menjadi penasihat di Mesir dan dikenal karena kesetiaannya kepada Allah.",
+      "pesan_penting": "Kisah Nabi Yusuf mengajarkan tentang kesabaran dalam menghadapi cobaan dan pengkhianatan. Beliau juga menunjukkan betapa Allah selalu merencanakan yang terbaik meskipun rintangan yang sulit dalam hidup.",
+      "tempat_kelahiran": "Hebron, Kanaan",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Mesir",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 12,
+      "key": "syuaib",
+      "nama": "Nabi Syu'aib",
+      "kisah": "Nabi Syu'aib diutus oleh Allah untuk mengajak suku Madyan agar menjauhi penipuan dan ketidakadilan dalam urusan perdagangan. Ia juga mengingatkan mereka untuk tidak menyembah berhala dan melakukan tindakan buruk. Namun, suku Madyan menolak pesan Nabi Syu'aib dan Allah menghancurkan mereka.",
+      "pesan_penting": "Kisah Nabi Syu'aib mengajarkan tentang pentingnya kejujuran dalam bisnis dan hubungan sosial. Ia juga menegaskan betapa pentingnya mematuhi ajaran agama dan menjauhi perbuatan tercela.",
+      "tempat_kelahiran": "Madyan, Arab Saudi",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 13,
+      "key": "ayyub",
+      "nama": "Nabi Ayyub",
+      "kisah": "Nabi Ayyub adalah nabi yang diuji oleh Allah dengan penyakit yang parah dan kehilangan harta serta keluarganya. Meskipun dalam kondisi yang sulit, ia tetap sabar dan tidak pernah berhenti beriman kepada Allah.",
+      "pesan_penting": "Kisah Nabi Ayyub mengajarkan tentang ketegaran dalam menghadapi cobaan, kesabaran dalam mengatasi kesulitan, dan pentingnya menjaga iman dalam situasi apapun.",
+      "tempat_kelahiran": "Tidak diketahui",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 14,
+      "key": "zulkifli",
+      "nama": "Nabi Zulkifli",
+      "kisah": "Nabi Zulkifli adalah seorang nabi yang juga dikenal sebagai Ezekiel dalam beberapa kitab agama Yahudi dan Kristen. Ia diutus oleh Allah untuk menyampaikan pesan-Nya kepada umat yang sedang menghadapi cobaan dan kesulitan. Nabi Zulkifli mengajarkan ketabahan dan tawakkal dalam menghadapi ujian.",
+      "pesan_penting": "Kisah Nabi Zulkifli mengajarkan pentingnya kepercayaan kepada Allah dalam menghadapi cobaan hidup. Beliau juga menunjukkan bahwa Allah selalu memberikan bimbingan kepada hamba-Nya yang setia dan sabar.",
+      "tempat_kelahiran": "Babilonia",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Babilonia",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 15,
+      "key": "musa",
+      "nama": "Nabi Musa",
+      "kisah": "Nabi Musa adalah salah satu nabi yang diutus oleh Allah untuk membimbing Bani Israel. Ia dilahirkan di tengah masa penindasan terhadap kaum Bani Israel di Mesir. Allah memberikan kepadanya mukjizat-mukjizat seperti tongkat yang bisa berubah menjadi ular dan membelah Laut Merah sehingga Bani Israel dapat melintas dengan selamat. Nabi Musa juga menerima Taurat, kitab suci pertama dari Allah.",
+      "pesan_penting": "Kisah Nabi Musa mengajarkan nilai-nilai keadilan, keberanian, dan kesabaran dalam menghadapi cobaan. Beliau juga menunjukkan pentingnya taat kepada perintah Allah meskipun dalam situasi yang sulit.",
+      "tempat_kelahiran": "Mesir",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Gunung Nebo, Yordania",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 16,
+      "key": "harun",
+      "nama": "Nabi Harun",
+      "kisah": "Nabi Harun adalah saudara dari Nabi Musa dan diutus oleh Allah sebagai nabi dan pembantu bagi Nabi Musa. Ia mendampingi Nabi Musa dalam menyampaikan ajaran Allah kepada Bani Israil. Nabi Harun memiliki peran penting dalam beberapa peristiwa, termasuk saat Bani Israil membuat patung anak lembu ketika Nabi Musa pergi.",
+      "pesan_penting": "Kisah Nabi Harun mengajarkan tentang pentingnya kepatuhan dan kerja sama dalam menjalankan tugas agama. Beliau juga menunjukkan bahwa seorang nabi bisa menjadi penolong dan pendamping bagi nabi lainnya.",
+      "tempat_kelahiran": "Mesir",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Gunung Hor, Yordania",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 17,
+      "key": "daud",
+      "nama": "Nabi Daud",
+      "kisah": "Nabi Daud adalah nabi yang juga menjadi raja di Kerajaan Israel. Ia terkenal karena kisahnya dalam melawan raksasa Goliath dan sebagai pemusik yang menghasilkan mazmur-mazmur yang dihormati.",
+      "pesan_penting": "Kisah Nabi Daud mengajarkan tentang keberanian, keadilan, dan pentingnya mengembangkan bakat-bakat yang diberikan oleh Allah.",
+      "tempat_kelahiran": "Betlehem",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Yerusalem",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 18,
+      "key": "sulaiman",
+      "nama": "Nabi Sulaiman",
+      "kisah": "Nabi Sulaiman adalah putra dari Nabi Daud yang dikenal atas hikmahnya, kemampuan berbicara dengan binatang, dan kekuasaannya atas jin. Ia juga dikenal sebagai pembangun Baitul Maqdis.",
+      "pesan_penting": "Kisah Nabi Sulaiman mengajarkan tentang kebijaksanaan, kerendahan hati, dan pentingnya menggunakan kekuasaan dan bakat dengan tanggung jawab dan tawakkal kepada Allah.",
+      "tempat_kelahiran": "Yerusalem",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Yerusalem",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 19,
+      "key": "ilyas",
+      "nama": "Nabi Ilyas",
+      "kisah": "Nabi Ilyas adalah nabi yang diutus oleh Allah untuk melawan penyembahan berhala dan membangkitkan semangat tauhid di tengah umatnya. Ia memiliki mukjizat-mukjizat seperti menghentikan hujan dan menghidupkan orang mati. Nabi Ilyas juga mendidik penerusnya, Nabi Elisha.",
+      "pesan_penting": "Kisah Nabi Ilyas mengajarkan pentingnya kesetiaan kepada Allah dalam menghadapi tantangan dan godaan dunia. Ia juga menunjukkan bahwa Allah selalu mendukung hamba-hamba-Nya yang tawakkal.",
+      "tempat_kelahiran": "Tishbe, Gilead",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 20,
+      "key": "ilyasa",
+      "nama": "Nabi Ilyasa",
+      "kisah": "Nabi Ilyasa, juga dikenal sebagai Elisha, adalah penerus Nabi Ilyas. Ia menerima warisan roh kenabian dari Nabi Ilyas dan melanjutkan tugas menyebarkan ajaran tauhid. Nabi Ilyasa memiliki mukjizat-mukjizat seperti menghidupkan orang mati dan menyembuhkan penyakit.",
+      "pesan_penting": "Kisah Nabi Ilyasa mengajarkan tentang kelanjutan dan perjuangan dalam menyebarkan ajaran agama. Beliau juga menunjukkan bahwa roh kenabian dapat diwariskan dari generasi ke generasi.",
+      "tempat_kelahiran": "Abel-meholah, Israel",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 21,
+      "key": "yunus",
+      "nama": "Nabi Yunus",
+      "kisah": "Nabi Yunus adalah nabi yang dikenal karena kisahnya dalam perut ikan (paus) setelah ia menolak untuk memenuhi perintah Allah. Setelah menyadari kesalahannya, Nabi Yunus beristighfar (memohon ampun) dan dilepaskan dari perut ikan. Ia kemudian mengutus suatu kota untuk memperingatkan penduduknya agar bertaubat.",
+      "pesan_penting": "Kisah Nabi Yunus mengajarkan pentingnya taubat dan ketundukan kepada kehendak Allah. Beliau juga menunjukkan bahwa Allah adalah Maha Pengampun dan memiliki rahmat yang luas.",
+      "tempat_kelahiran": "Gath-Hepher, Israel",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Tidak diketahui",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 22,
+      "key": "zakaria",
+      "nama": "Nabi Zakaria",
+      "kisah": "Nabi Zakaria adalah nabi yang dikenal karena mukjizat kelahiran putranya, Nabi Yahya (John the Baptist). Meskipun dalam usia tua, Allah memberinya keturunan sebagai anugerah.",
+      "pesan_penting": "Kisah Nabi Zakaria mengajarkan tentang harapan, kesyukuran, dan pentingnya mempercayai bahwa Allah mampu memberikan berkah dalam setiap situasi.",
+      "tempat_kelahiran": "Yerusalem",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Yerusalem",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 23,
+      "key": "yahya",
+      "nama": "Nabi Yahya",
+      "kisah": "Nabi Yahya, juga dikenal sebagai John the Baptist dalam tradisi Kristen, adalah nabi yang diutus oleh Allah. Ia mempersiapkan jalan bagi kedatangan Nabi Isa (Isa Al-Masih) dan mengajak umat untuk bertaubat dan mempersiapkan diri untuk menghadapi waktu yang akan datang.",
+      "pesan_penting": "Kisah Nabi Yahya mengajarkan tentang pentingnya kesiapan rohani dan tawbah dalam menghadapi perubahan dan peristiwa besar dalam hidup. Ia juga menekankan pentingnya mengikuti jalan kebenaran.",
+      "tempat_kelahiran": "Yerusalem",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Yerusalem",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 24,
+      "key": "isa",
+      "nama": "Nabi Isa",
+      "kisah": "Nabi Isa, juga dikenal sebagai Isa Al-Masih dalam agama Islam, adalah salah satu nabi yang dihormati dan diutus oleh Allah. Ia memiliki mukjizat seperti menyembuhkan orang sakit dan menghidupkan orang mati. Nabi Isa diakui sebagai salah satu nabi dalam Islam dan sebagai Mesias dalam agama Kristen.",
+      "pesan_penting": "Kisah Nabi Isa mengajarkan tentang kasih sayang, kebijaksanaan, dan pentingnya iman yang kuat. Ia juga mengajarkan tentang pentingnya berbuat baik terhadap sesama manusia.",
+      "tempat_kelahiran": "Betlehem",
+      "tanggal_kelahiran": "Tidak diketahui",
+      "tempat_wafat": "Yerusalem",
+      "tanggal_wafat": "Tidak diketahui"
+    },
+    {
+      "id": 25,
+      "key": "muhammad",
+      "nama": "Nabi Muhammad",
+      "kisah": "Nabi Muhammad adalah nabi terakhir yang diutus oleh Allah kepada umat manusia. Beliau lahir di Mekah pada tahun 570 Masehi. Nabi Muhammad membawa ajaran tauhid, moralitas, dan etika yang diwahyukan dalam Al-Quran. Beliau juga menghadapi banyak cobaan dan perjuangan dalam menyebarkan ajaran Islam.",
+      "pesan_penting": "Kisah Nabi Muhammad mengajarkan tentang keikhlasan, kesabaran, dan dedikasi dalam beribadah kepada Allah. Beliau juga menunjukkan pentingnya kasih sayang dan keadilan dalam hubungan sosial serta ketekunan dalam menegakkan kebenaran.",
+      "tempat_kelahiran": "Mekah, Arab Saudi",
+      "tanggal_kelahiran": "12 Rabi' al-Awwal, 570 M",
+      "tempat_wafat": "Madinah, Arab Saudi",
+      "tanggal_wafat": "8 Juni 632 M"
+    }
+  ]
+}
