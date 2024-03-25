@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/03/2024 02:23:23 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "121.86 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2.9 km Barat Daya Loea, Kab. Kolaka",
+    "warning": [
+      "II Rate-Rate"
+    ]
+  },
+  {
     "waktu": "26/03/2024 00:36:36 WIB",
     "lintang": "0.83 LU",
     "bujur": "125.4 BT",
@@ -276,38 +287,6 @@
     "warning": [
       "II Surabaya",
       "II Blora"
-    ]
-  },
-  {
-    "waktu": "22/03/2024 11:22:45 WIB",
-    "lintang": "5.74 LS",
-    "bujur": "112.32 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 132 km TimurLaut Tuban",
-    "warning": [
-      "III-IV Bawean",
-      "II-III Jepara",
-      "IV-V Tuban",
-      "II-III Lamongan",
-      "II-III Bojonegoro",
-      "II-III Surabaya",
-      "II-III Kudus",
-      "II-III Blora",
-      "II-III Pekalongan",
-      "II-III Nganjuk",
-      "II-III Pacitan",
-      "II-III Trenggalek",
-      "II-III Tulungagung",
-      "II-III Sidoarjo",
-      "II-III Madiun",
-      "II-III Pasuruan",
-      "II-III Malang",
-      "II-III Semarang",
-      "II-III Yogyakarta",
-      "II - III Banjarmasin",
-      "II - III Sampit",
-      "II - III Barito Kuala"
     ]
   }
 ]
