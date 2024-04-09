@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-04-24 16:48:01 WIB",
+    "lintang": "2.75",
+    "bujur": "127.14",
+    "magnitudo": "6.5",
+    "kedalaman": "10 Km",
+    "wilayah": "87 km BaratLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "09-04-24 07:02:53 WIB",
     "lintang": "-1.51",
     "bujur": "134.54",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "25 km Tenggara MALAKA-NTT"
-  },
-  {
-    "waktu": "27-02-24 02:37:16 WIB",
-    "lintang": "-5.89",
-    "bujur": "130.59",
-    "magnitudo": "5.4",
-    "kedalaman": "119 Km",
-    "wilayah": "239 km BaratDaya MALUKUTENGGARA"
   }
 ]
