@@ -30,6 +30,7 @@ const fs = require('fs')
   let response = await fetch('https://www.bmkg.go.id/gempabumi/gempabumi-dirasakan.bmkg')
   let $ = cheerio.load(await response.text())
   let result = []
+  try {
   for (let i = 0; i < 20; i++) {
     let data = $('body > div.wrapper > div.container.content > div > div.col-md-8 > div > div > table > tbody > tr').eq(i).find('td')
     let waktu = $(data).eq(1).html().replace(/<br>/g, ' ').trim()
@@ -51,5 +52,6 @@ const fs = require('fs')
       warning: warning.slice(0, warning.indexOf(''))
     })
   }
+  } catch {}
   await fs.writeFileSync('./results/gempa_dirasakan.json', JSON.stringify(result, null, 2))
 })()
