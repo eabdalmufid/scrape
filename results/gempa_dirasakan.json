@@ -1,1 +1,237 @@
-[]
+[
+  {
+    "waktu": "24/06/2024 03:21:46 WIB",
+    "lintang": "3.3 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km tenggara Piru",
+    "warning": [
+      "II-III Kairatu"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 18:43:50 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "135.47 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat daya Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 13:54:03 WIB",
+    "lintang": "0.95 LS",
+    "bujur": "119.88 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km selatan Palu",
+    "warning": [
+      "II-III Palu"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 02:33:43 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 00:52:52 WIB",
+    "lintang": "2.6 LU",
+    "bujur": "98.67 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km baratdaya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 00:03:18 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
+    "waktu": "21/06/2024 07:11:19 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "140.01 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "78 Km",
+    "wilayah": "Pusat gempa berada di darat 68 km timur laut Yalimo",
+    "warning": [
+      "II-III Wamena",
+      "II Kota Jayapura",
+      "II Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "20/06/2024 19:41:23 WIB",
+    "lintang": "5.76 LS",
+    "bujur": "112.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 136 km timur laut Tuban",
+    "warning": [
+      "II-III Bawean"
+    ]
+  },
+  {
+    "waktu": "20/06/2024 19:31:42 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "128.63 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km utara Saparua - Maluku Tengah",
+    "warning": [
+      "III Saparua"
+    ]
+  },
+  {
+    "waktu": "19/06/2024 09:39:42 WIB",
+    "lintang": "2.42 LU",
+    "bujur": "95.52 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "69 Km",
+    "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
+    "waktu": "19/06/2024 09:34:21 WIB",
+    "lintang": "2.47 LU",
+    "bujur": "95.52 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "70 Km",
+    "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
+    "waktu": "19/06/2024 09:32:25 WIB",
+    "lintang": "2.69 LU",
+    "bujur": "95.7 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di Laut 78 Km barat laut Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
+    "waktu": "18/06/2024 18:02:29 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
+    "warning": [
+      "II Cugenang"
+    ]
+  },
+  {
+    "waktu": "18/06/2024 10:43:35 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
+    "waktu": "18/06/2024 06:30:27 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Lombok Utara",
+    "warning": [
+      "II Lombok Utara"
+    ]
+  },
+  {
+    "waktu": "17/06/2024 18:21:53 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kab. Cianjur",
+    "warning": [
+      "II - III Cianjur"
+    ]
+  },
+  {
+    "waktu": "15/06/2024 22:31:03 WIB",
+    "lintang": "4.89 LS",
+    "bujur": "103.02 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km barat daya Kaur",
+    "warning": [
+      "II-III Bengkulu Selatan",
+      "II-III Kaur",
+      "III Pesisir Barat",
+      "III Lampung Barat"
+    ]
+  },
+  {
+    "waktu": "15/06/2024 20:08:15 WIB",
+    "lintang": "3.16 LU",
+    "bujur": "127.27 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 112 km barat laut Pulau Doi",
+    "warning": [
+      "II Tomohon",
+      "II Manado",
+      "II Bolaang Mongondow Selatan",
+      "II Minahasa Tenggara",
+      "II Kepulauan Talaud",
+      "II Minahasa Utara",
+      "II Minahasa",
+      "II Siau Tagulandang Biaro"
+    ]
+  },
+  {
+    "waktu": "14/06/2024 12:39:43 WIB",
+    "lintang": "1.87 LS",
+    "bujur": "100.39 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 57 km BaratLaut Pesisir Selatan, Sumatera Barat",
+    "warning": [
+      "II-III Padang",
+      "II-III Pesisir Selatan"
+    ]
+  },
+  {
+    "waktu": "13/06/2024 00:01:23 WIB",
+    "lintang": "4.36 LU",
+    "bujur": "126.65 BT",
+    "magnitudo": "6",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km barat laut Melonguane",
+    "warning": [
+      "III Kepulauan Sangihe",
+      "III-IV Kepulauan Talaud",
+      "II Manado"
+    ]
+  }
+]
