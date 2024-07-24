@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "waktu": "24/07/2024 15:09:01 WIB",
+    "lintang": "10.3 LS",
+    "bujur": "123.76 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada didarat 24 Km Tenggara Kupang",
+    "warning": [
+      "IV-V Kupang",
+      "II-III Soe",
+      "I-II Alor"
+    ]
+  },
+  {
+    "waktu": "24/07/2024 07:22:09 WIB",
+    "lintang": "2.86 LS",
+    "bujur": "139.38 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 96 km timur laut Kobagma",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
+    "waktu": "24/07/2024 01:32:53 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 barat laut Saparua",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
+    "waktu": "23/07/2024 16:28:38 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "127.78 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km barat laut Halmahera Utara",
+    "warning": [
+      "II-III Tobelo"
+    ]
+  },
+  {
+    "waktu": "23/07/2024 10:10:12 WIB",
+    "lintang": "1.69 LS",
+    "bujur": "99.57 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Kep. Mentawai",
+    "warning": [
+      "III-IV Mentawai",
+      "III Padang",
+      "III Pariaman",
+      "III Padang Pariaman",
+      "III Agam",
+      "II Padang Panjang"
+    ]
+  },
+  {
+    "waktu": "20/07/2024 19:51:49 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.48 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat daya Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
+    "waktu": "19/07/2024 21:31:32 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "127.79 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km barat laut Halmahera Utara",
+    "warning": [
+      "II-III Galela",
+      "II Kao Barat"
+    ]
+  },
+  {
+    "waktu": "19/07/2024 13:50:00 WIB",
+    "lintang": "3.22 LS",
+    "bujur": "139.19 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di darat 52 km timur laut Kobagma",
+    "warning": [
+      "II - III Wamena"
+    ]
+  },
+  {
+    "waktu": "18/07/2024 00:08:20 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.91 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km baratlaut Luwutimur",
+    "warning": [
+      "III-IV Mangkutana"
+    ]
+  },
+  {
+    "waktu": "17/07/2024 07:08:01 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "128.31 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km Tenggara Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
+    "waktu": "17/07/2024 06:39:32 WIB",
+    "lintang": "1.3 LU",
+    "bujur": "126.12 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 111 km tenggara Bitung",
+    "warning": [
+      "III Manado",
+      "III Minahasa",
+      "III Minahasa Utara",
+      "III Bolaang Mongondow Selatan",
+      "III Bitung",
+      "III Tomohon",
+      "III Ternate",
+      "III Sitaro",
+      "III Bolaang Mongondow Timur"
+    ]
+  },
+  {
+    "waktu": "16/07/2024 22:57:03 WIB",
+    "lintang": "7.21 LS",
+    "bujur": "109.91 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km timur laut Wonosobo",
+    "warning": [
+      "III Wonosobo",
+      "III Dieng",
+      "III Batang",
+      "III Kendal",
+      "III Temanggung"
+    ]
+  },
+  {
+    "waktu": "16/07/2024 09:53:09 WIB",
+    "lintang": "4.35 LS",
+    "bujur": "101.99 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "36 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Seluma",
+    "warning": [
+      "II-III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 19:55:53 WIB",
+    "lintang": "3.79 LS",
+    "bujur": "120 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km BaratDaya Sidenreng Rappang",
+    "warning": [
+      "II-III Sidenreng Rappang"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 15:54:21 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "120.89 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 37 km barat laut Luwu Timur",
+    "warning": [
+      "III Angkona"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 13:39:38 WIB",
+    "lintang": "6.99 LS",
+    "bujur": "109.78 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km tenggara Batang",
+    "warning": [
+      "II Batang"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 12:29:06 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "114.86 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 25 km barat daya Buleleng",
+    "warning": [
+      "II seririt"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 06:59:54 WIB",
+    "lintang": "5.31 LS",
+    "bujur": "121.92 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah",
+    "warning": [
+      "III kabaena Tengah"
+    ]
+  },
+  {
+    "waktu": "14/07/2024 09:38:33 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "140.66 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km barat laut Kota Jayapura",
+    "warning": [
+      "II Sentani"
+    ]
+  },
+  {
+    "waktu": "13/07/2024 20:35:25 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "129.42 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km tenggara Sawai-Maluku Tengah",
+    "warning": [
+      "II Tehoru"
+    ]
+  }
+]
