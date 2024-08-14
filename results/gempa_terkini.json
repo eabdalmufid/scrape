@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-08-24 00:55:42 WIB",
+    "lintang": "-7.70",
+    "bujur": "106.08",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "87 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "14-08-24 21:14:03 WIB",
     "lintang": "-9.63",
     "bujur": "114.02",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "78 Km",
     "wilayah": "68 km TimurLaut YALIMO-PAPUAPGNGN"
-  },
-  {
-    "waktu": "15-06-24 20:08:15 WIB",
-    "lintang": "3.16",
-    "bujur": "127.27",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "112 km BaratLaut PULAUDOI-MALUT"
   }
 ]
