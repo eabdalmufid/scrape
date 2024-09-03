@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "03/09/2024 20:43:45 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "121.14 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat laut Luwuk Timur",
+    "warning": [
+      "II Wasuponda"
+    ]
+  },
+  {
+    "waktu": "03/09/2024 20:13:08 WIB",
+    "lintang": "0.35 LS",
+    "bujur": "123.1 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "36 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km barat daya Bonebolango",
+    "warning": [
+      "III Luwuk"
+    ]
+  },
+  {
     "waktu": "03/09/2024 19:43:40 WIB",
     "lintang": "2 LS",
     "bujur": "125.55 BT",
@@ -235,28 +257,6 @@
       "III Kaur",
       "II - III Empat Lawang",
       "II - III Pagar Alam"
-    ]
-  },
-  {
-    "waktu": "24/08/2024 20:22:32 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "121.17 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat laut Luwu Timur",
-    "warning": [
-      "III Malili"
-    ]
-  },
-  {
-    "waktu": "24/08/2024 10:31:59 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "105.12 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km barat daya Sumur",
-    "warning": [
-      "II Bandar Lampung"
     ]
   }
 ]
