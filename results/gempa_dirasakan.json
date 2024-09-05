@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "05/09/2024 12:28:07 WIB",
+    "lintang": "4.44 LU",
+    "bujur": "96.59 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 35 km barat daya Takengon-Aceh Tengah",
+    "warning": [
+      "II Takengon",
+      "II Bener Meriah"
+    ]
+  },
+  {
     "waktu": "05/09/2024 11:31:29 WIB",
     "lintang": "0.22 LS",
     "bujur": "124.61 BT",
@@ -226,38 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km barat laut Luwuk Timur",
     "warning": [
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "26/08/2024 19:57:42 WIB",
-    "lintang": "8.78 LS",
-    "bujur": "110.27 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 95 km barat daya Gunungkidul",
-    "warning": [
-      "II - III Karangkates",
-      "II-III Nganjuk",
-      "II - III Malang",
-      "III-IV Sleman",
-      "III - IV Yogyakarta",
-      "III-IV Bantul",
-      "III-IV Kulon Progo",
-      "II - III Pacitan",
-      "II - III Trenggalek",
-      "II-III Magelang",
-      "II-III Kediri",
-      "II-III Blitar",
-      "II-III Cilacap",
-      "II-III Banyumas",
-      "II-III Surakarta",
-      "II-III Sukoharjo",
-      "II-III Klaten",
-      "II-III Wonosobo",
-      "II-III Banjarnegara",
-      "II-III Purwokerto",
-      "II-III Tasikmalaya",
-      "II-III Madiun"
     ]
   }
 ]
