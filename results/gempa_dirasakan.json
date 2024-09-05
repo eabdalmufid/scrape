@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05/09/2024 11:31:29 WIB",
+    "lintang": "0.22 LS",
+    "bujur": "124.61 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 95 Km tenggara Bolaanguki",
+    "warning": [
+      "II-III  Kab.Minahasa",
+      "II-III Kab.Minahasa Selatan",
+      "II-III Kotamobagu",
+      "II-III Kab. Bolaang Mongondow",
+      "II-III Kab. Bolaang Mongondow Selatan",
+      "II-III Kab. Bolaang Mongondow Timur"
+    ]
+  },
+  {
     "waktu": "04/09/2024 13:24:17 WIB",
     "lintang": "6.88 LS",
     "bujur": "107.51 BT",
@@ -242,17 +258,6 @@
       "II-III Purwokerto",
       "II-III Tasikmalaya",
       "II-III Madiun"
-    ]
-  },
-  {
-    "waktu": "26/08/2024 07:17:03 WIB",
-    "lintang": "1.16 LU",
-    "bujur": "126.43 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 112 KM BaratLaut TERNATE",
-    "warning": [
-      "II-III Ternate"
     ]
   }
 ]
