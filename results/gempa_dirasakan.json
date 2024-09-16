@@ -1,1 +1,267 @@
-[]
+[
+  {
+    "waktu": "16/09/2024 20:00:00 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "127.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km Tenggara Halmahera Utara",
+    "warning": [
+      "II-III Halmahera Utara",
+      "II-III Halmahera Timur"
+    ]
+  },
+  {
+    "waktu": "16/09/2024 18:54:43 WIB",
+    "lintang": "0.47 LS",
+    "bujur": "127.74 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut. 33 km TimurLaut Labuha",
+    "warning": [
+      "II-III Labuha"
+    ]
+  },
+  {
+    "waktu": "16/09/2024 18:39:47 WIB",
+    "lintang": "0.4 LS",
+    "bujur": "127.63 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut timur laut Labuha",
+    "warning": [
+      "II-III Labuha"
+    ]
+  },
+  {
+    "waktu": "16/09/2024 07:01:12 WIB",
+    "lintang": "7.7 LS",
+    "bujur": "106.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km Tenggara KAB-SUKABUMI",
+    "warning": [
+      "III Surade"
+    ]
+  },
+  {
+    "waktu": "15/09/2024 20:08:09 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "118.42 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 145 km Tenggara Berau",
+    "warning": [
+      "III-IV Berau",
+      "III-IV Tanjung Redep",
+      "III-IV Teluk Bayur",
+      "III-IV Tanjung Selor",
+      "III-IV Tarakan",
+      "III-IV Bulungan",
+      "II-III Bontang",
+      "II-III Sangatta",
+      "II-III Bengalon",
+      "II-III Muara Badak",
+      "III-IV Kec. Sangkulirang"
+    ]
+  },
+  {
+    "waktu": "15/09/2024 18:28:55 WIB",
+    "lintang": "1.33 LU",
+    "bujur": "118.44 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 143 km tenggara Berau",
+    "warning": [
+      "II - III Kecamatan Batu Putih",
+      "II - III Kecamatan Sangkulirang"
+    ]
+  },
+  {
+    "waktu": "15/09/2024 16:54:31 WIB",
+    "lintang": "7.81 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km selatan Kabupaten Sukabumi",
+    "warning": [
+      "III Sukabumi",
+      "III Cireungas",
+      "III Ujung genteng",
+      "III Nagrak",
+      "II Cimahi",
+      "II Lembang",
+      "II Banjaran",
+      "II Kab. Bandung"
+    ]
+  },
+  {
+    "waktu": "15/09/2024 04:37:38 WIB",
+    "lintang": "1.86 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "131 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat daya Tapanuli Utara",
+    "warning": [
+      "III Tapanuli Tengah",
+      "II-III Gunungsitoli"
+    ]
+  },
+  {
+    "waktu": "14/09/2024 19:35:35 WIB",
+    "lintang": "8.5 LS",
+    "bujur": "115.41 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Klungkung",
+    "warning": [
+      "II Bangli"
+    ]
+  },
+  {
+    "waktu": "14/09/2024 08:31:07 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "115.62 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "85 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km tenggara Kuta Selatan",
+    "warning": [
+      "II-III Kota Mataram",
+      "II-III Lombok Barat",
+      "II - III Lombok Tengah",
+      "II Gianyar",
+      "II Badung",
+      "II Denpasar",
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "14/09/2024 00:19:50 WIB",
+    "lintang": "9.15 LS",
+    "bujur": "110.4 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km baratdaya Gunungkidul",
+    "warning": [
+      "II-III Pacitan",
+      "II-III Wonogiri",
+      "II-III Sukoharjo"
+    ]
+  },
+  {
+    "waktu": "12/09/2024 10:25:13 WIB",
+    "lintang": "8.72 LS",
+    "bujur": "110.25 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km barat daya Gunungkidul",
+    "warning": [
+      "II Gunungkidul",
+      "II Bantul",
+      "II Pacitan",
+      "II Wonogiri"
+    ]
+  },
+  {
+    "waktu": "12/09/2024 01:01:55 WIB",
+    "lintang": "7.93 LS",
+    "bujur": "117.23 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km timur laut Pulau Saring",
+    "warning": [
+      "III Kab. Sumbawa"
+    ]
+  },
+  {
+    "waktu": "10/09/2024 12:11:07 WIB",
+    "lintang": "8.74 LS",
+    "bujur": "124.26 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "97 Km",
+    "wilayah": "Pusat gempa berada di laut 59 km barat daya Alor",
+    "warning": [
+      "II-III Soe"
+    ]
+  },
+  {
+    "waktu": "10/09/2024 03:35:33 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "121.04 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Luwutimur",
+    "warning": [
+      "II Malili"
+    ]
+  },
+  {
+    "waktu": "07/09/2024 20:51:13 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "129.79 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Utara Banda",
+    "warning": [
+      "II-III Banda"
+    ]
+  },
+  {
+    "waktu": "07/09/2024 08:51:44 WIB",
+    "lintang": "8.52 LS",
+    "bujur": "115.35 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat, 2 km timur laut Gianyar",
+    "warning": [
+      "III-IV Gianyar",
+      "III Tabanan",
+      "III Badung",
+      "III Denpasar",
+      "III Klungkung",
+      "III Mataram",
+      "III Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "07/09/2024 02:02:04 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "106.83 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 147 km Tenggara Kab. Sukabumi",
+    "warning": [
+      "II Kec. Simpenan",
+      "Kab. Sukabumi",
+      "II Kecamatan Limbursitu",
+      "Kota Sukabumi"
+    ]
+  },
+  {
+    "waktu": "06/09/2024 10:55:14 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "103.24 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km barat laut Lahat",
+    "warning": [
+      "III Kikim"
+    ]
+  },
+  {
+    "waktu": "06/09/2024 08:06:36 WIB",
+    "lintang": "5.49 LS",
+    "bujur": "102.61 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km tenggara Enggano",
+    "warning": [
+      "III Kota Bengkulu",
+      "III Kepahiang",
+      "II Pesisir Barat",
+      "II Liwa",
+      "III-IV Enggano",
+      "III Bengkulu Utara"
+    ]
+  }
+]
