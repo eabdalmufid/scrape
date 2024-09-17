@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17/09/2024 05:50:51 WIB",
+    "lintang": "6.9 LS",
+    "bujur": "105.63 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km tenggara Sumur",
+    "warning": [
+      "III Sumur",
+      "III Muarabinuangeun",
+      "III Panimbang",
+      "III Cibaliung",
+      "III Singdangkerta",
+      "III Sobang"
+    ]
+  },
+  {
     "waktu": "17/09/2024 04:46:30 WIB",
     "lintang": "7.22 LS",
     "bujur": "106.18 BT",
@@ -249,17 +265,6 @@
       "Kab. Sukabumi",
       "II Kecamatan Limbursitu",
       "Kota Sukabumi"
-    ]
-  },
-  {
-    "waktu": "06/09/2024 10:55:14 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "103.24 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km barat laut Lahat",
-    "warning": [
-      "III Kikim"
     ]
   }
 ]
