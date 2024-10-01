@@ -1,1 +1,263 @@
-[]
+[
+  {
+    "waktu": "01/10/2024 14:10:39 WIB",
+    "lintang": "0.48 LU",
+    "bujur": "122.31 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "94 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km baratdaya Boalemo",
+    "warning": [
+      "III - IV Kab. Pohuwato",
+      "III Gorontalo Utara",
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo",
+      "III-IV Kab. Boalemo",
+      "III Kab. Bone Bolango",
+      "III Kab. Bolaang Mongondow",
+      "III Kab. Toli-Toli",
+      "III Kab. Parigi Moutong",
+      "III Kab. Buol"
+    ]
+  },
+  {
+    "waktu": "01/10/2024 09:18:22 WIB",
+    "lintang": "1.08 LU",
+    "bujur": "98.8 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "108 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km barat daya Padangsidempuan",
+    "warning": [
+      "III Kab. Humbang Hasundutan",
+      "II - III Gunungsitoli",
+      "II - III Nias Barat",
+      "II - III Nias Selatan",
+      "II-III Nias Utara"
+    ]
+  },
+  {
+    "waktu": "29/09/2024 22:36:00 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "119.82 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km barat laut Donggala",
+    "warning": [
+      "II - III Donggala"
+    ]
+  },
+  {
+    "waktu": "29/09/2024 15:16:15 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "135.4 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km barat daya Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
+    "waktu": "29/09/2024 13:27:52 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "129.82 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 57 km utara Banda - Maluku Tengah",
+    "warning": [
+      "II Banda Naira"
+    ]
+  },
+  {
+    "waktu": "29/09/2024 03:26:03 WIB",
+    "lintang": "1.73 LS",
+    "bujur": "120.16 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 49 km Tenggara Sigi",
+    "warning": [
+      "IV Lore Tengah",
+      "II-III Sigi"
+    ]
+  },
+  {
+    "waktu": "25/09/2024 16:16:35 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timurlaut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
+    "waktu": "25/09/2024 11:49:48 WIB",
+    "lintang": "2 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km baratlaut Mamuju Tengah",
+    "warning": [
+      "II-III Topoyo",
+      "II-III Tobadak"
+    ]
+  },
+  {
+    "waktu": "24/09/2024 18:35:17 WIB",
+    "lintang": "0.97 LU",
+    "bujur": "118.97 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 182 km baratlaut Donggala",
+    "warning": [
+      "II-III Kutai Timur"
+    ]
+  },
+  {
+    "waktu": "24/09/2024 06:53:59 WIB",
+    "lintang": "7.5 LS",
+    "bujur": "107.02 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "61 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Sukabumi",
+    "warning": [
+      "III Cianjur Selatan",
+      "II Bogor",
+      "II Bayah",
+      "II Lebak",
+      "II-III Kab. Sukabumi",
+      "II Kab. Bandung",
+      "II Kab. Garut"
+    ]
+  },
+  {
+    "waktu": "24/09/2024 03:45:24 WIB",
+    "lintang": "4.63 LS",
+    "bujur": "102.75 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 26 km barat daya Bengkulu Selatan",
+    "warning": [
+      "III Bengkulu Selatan",
+      "II-III Kaur"
+    ]
+  },
+  {
+    "waktu": "24/09/2024 02:51:04 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "122.92 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "145 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km Baratdaya Gorontalo",
+    "warning": [
+      "III-IV Kotamobagu",
+      "III-IV Bolaang Mongondow Selatan",
+      "III-IV Pohuwato",
+      "III-IV Kab. Gorontalo",
+      "III-IV Kota Gorontalo",
+      "III-IV Bone Bolango",
+      "III-IV Boalemo",
+      "III-IV Luwuk",
+      "III Gorontalo Utara",
+      "III Buol",
+      "III Bolaang Mongondow Timur"
+    ]
+  },
+  {
+    "waktu": "23/09/2024 18:33:52 WIB",
+    "lintang": "2.27 LS",
+    "bujur": "134.28 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km baratlaut Teluk Wondama",
+    "warning": [
+      "II Wasior"
+    ]
+  },
+  {
+    "waktu": "23/09/2024 02:29:18 WIB",
+    "lintang": "0.74 LS",
+    "bujur": "131.44 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km timur laut kota Sorong",
+    "warning": [
+      "II-III Sorong"
+    ]
+  },
+  {
+    "waktu": "22/09/2024 10:11:52 WIB",
+    "lintang": "7.87 LS",
+    "bujur": "109.7 BT",
+    "magnitudo": "4",
+    "kedalaman": "102 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Kebumen",
+    "warning": [
+      "III Bantul"
+    ]
+  },
+  {
+    "waktu": "22/09/2024 03:21:10 WIB",
+    "lintang": "0.28 LU",
+    "bujur": "110.15 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
+    "warning": [
+      "III Sanggau"
+    ]
+  },
+  {
+    "waktu": "21/09/2024 06:26:20 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "115.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km baratdaya Gianyar",
+    "warning": [
+      "IV Gianyar",
+      "III Badung",
+      "III Denpasar",
+      "III Tabanan",
+      "III Karangasem",
+      "III Bangli",
+      "II Buleleng",
+      "II Mataram",
+      "II Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "20/09/2024 21:31:15 WIB",
+    "lintang": "3.84 LS",
+    "bujur": "122.24 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km timur laut Kab.Konawe",
+    "warning": [
+      "II-III Kab.Konawe"
+    ]
+  },
+  {
+    "waktu": "19/09/2024 23:36:50 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "118.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 146 Km tenggara Berau",
+    "warning": [
+      "III-IV Kecamatan Batu Putih"
+    ]
+  },
+  {
+    "waktu": "19/09/2024 23:14:17 WIB",
+    "lintang": "0.8 LU",
+    "bujur": "98.68 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "93 Km",
+    "wilayah": "Pusat gempa berada di Laut 91 Km BaratDaya Padangsidimpuan",
+    "warning": [
+      "III Gunung Sitoli",
+      "III Tapanuli Tengah"
+    ]
+  }
+]
