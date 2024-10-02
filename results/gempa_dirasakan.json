@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/10/2024 17:17:10 WIB",
+    "lintang": "1.27 LS",
+    "bujur": "134.19 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km timur laut Pegunungan Arfak",
+    "warning": [
+      "II Ransiki"
+    ]
+  },
+  {
     "waktu": "02/10/2024 08:09:18 WIB",
     "lintang": "7.35 LS",
     "bujur": "106.49 BT",
@@ -260,17 +271,6 @@
       "II Buleleng",
       "II Mataram",
       "II Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "20/09/2024 21:31:15 WIB",
-    "lintang": "3.84 LS",
-    "bujur": "122.24 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km timur laut Kab.Konawe",
-    "warning": [
-      "II-III Kab.Konawe"
     ]
   }
 ]
