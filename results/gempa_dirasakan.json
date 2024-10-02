@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/10/2024 17:31:17 WIB",
+    "lintang": "8.45 LS",
+    "bujur": "117.17 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km timur laut Pernang",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "02/10/2024 17:17:10 WIB",
     "lintang": "1.27 LS",
     "bujur": "134.19 BT",
@@ -252,25 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
     "warning": [
       "III Sanggau"
-    ]
-  },
-  {
-    "waktu": "21/09/2024 06:26:20 WIB",
-    "lintang": "8.57 LS",
-    "bujur": "115.32 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km baratdaya Gianyar",
-    "warning": [
-      "IV Gianyar",
-      "III Badung",
-      "III Denpasar",
-      "III Tabanan",
-      "III Karangasem",
-      "III Bangli",
-      "II Buleleng",
-      "II Mataram",
-      "II Lombok Barat"
     ]
   }
 ]
