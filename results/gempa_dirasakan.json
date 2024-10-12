@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/10/2024 08:11:55 WIB",
+    "lintang": "0.26 LS",
+    "bujur": "125.16 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
+    "warning": [
+      "III Minahasa Tenggara"
+    ]
+  },
+  {
     "waktu": "11/10/2024 16:35:15 WIB",
     "lintang": "7.19 LS",
     "bujur": "107.76 BT",
@@ -236,20 +247,6 @@
       "IV Ujung Genteng",
       "IV Tegalbuleud",
       "III-IV Kalibunder"
-    ]
-  },
-  {
-    "waktu": "02/10/2024 03:57:55 WIB",
-    "lintang": "0.84 LU",
-    "bujur": "122.85 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km barat laut Gorontalo Utara",
-    "warning": [
-      "II-III Gorontalo Utara",
-      "II-III Kab. Gorontalo",
-      "II-III Kotamobagu",
-      "II-III Bolaang Mongondow Utara"
     ]
   }
 ]
