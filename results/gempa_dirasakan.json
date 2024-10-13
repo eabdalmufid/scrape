@@ -1,1 +1,249 @@
-[]
+[
+  {
+    "waktu": "13/10/2024 14:01:34 WIB",
+    "lintang": "5.48 LU",
+    "bujur": "93.87 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 161 km baratdaya Banda Aceh",
+    "warning": [
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "III Sabang",
+      "III Pidie",
+      "II Pidie Jaya",
+      "II Bireuen"
+    ]
+  },
+  {
+    "waktu": "13/10/2024 10:20:41 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.66 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "warning": [
+      "II Kec. Pamijahan"
+    ]
+  },
+  {
+    "waktu": "13/10/2024 06:16:01 WIB",
+    "lintang": "9.27 LS",
+    "bujur": "118.62 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km barat laut Kodi, Sumba Barat",
+    "warning": [
+      "III Sumbawa",
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "12/10/2024 08:37:40 WIB",
+    "lintang": "4.6 LS",
+    "bujur": "101.89 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "58 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat laut Enggano",
+    "warning": [
+      "III Enggano",
+      "II - III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "12/10/2024 08:11:55 WIB",
+    "lintang": "0.26 LS",
+    "bujur": "125.16 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
+    "warning": [
+      "III Minahasa Tenggara",
+      "II Gorontalo"
+    ]
+  },
+  {
+    "waktu": "11/10/2024 16:35:15 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "107.76 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Kabupaten Garut",
+    "warning": [
+      "II Pacet",
+      "II Kertasari",
+      "II Pasirwangi",
+      "II Ibun"
+    ]
+  },
+  {
+    "waktu": "10/10/2024 05:07:33 WIB",
+    "lintang": "9.16 LS",
+    "bujur": "115.34 BT",
+    "magnitudo": "4",
+    "kedalaman": "66 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km tenggara Kuta Selatan",
+    "warning": [
+      "II Lombok Barat",
+      "II Lombok Tengah",
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "09/10/2024 18:31:46 WIB",
+    "lintang": "8.44 LS",
+    "bujur": "117.15 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Pernang",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
+    "waktu": "09/10/2024 13:39:21 WIB",
+    "lintang": "0.66 LU",
+    "bujur": "98.49 BT",
+    "magnitudo": "4",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km TimurLaut Nias Selatan",
+    "warning": [
+      "II Pandan"
+    ]
+  },
+  {
+    "waktu": "08/10/2024 21:12:08 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km selatan Kab. Sukabumi",
+    "warning": [
+      "III-IV Kab. Sukabumi",
+      "III Bayah",
+      "III Malingping",
+      "II Garut",
+      "II Nagrak",
+      "III-IV Kab. Cianjur",
+      "III Cibeber",
+      "III Panggarangan"
+    ]
+  },
+  {
+    "waktu": "07/10/2024 11:42:25 WIB",
+    "lintang": "7.05 LS",
+    "bujur": "111.75 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km baratlaut Bojonegoro",
+    "warning": [
+      "II - III Bojonegoro",
+      "II - III Tuban"
+    ]
+  },
+  {
+    "waktu": "07/10/2024 03:00:36 WIB",
+    "lintang": "7.1 LS",
+    "bujur": "113.16 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km barat laut Sampang",
+    "warning": [
+      "II - III Sampang"
+    ]
+  },
+  {
+    "waktu": "06/10/2024 18:31:22 WIB",
+    "lintang": "2.39 LS",
+    "bujur": "140.34 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km barat laut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "III Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "06/10/2024 02:44:39 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "107.75 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km baratlaut Kab. Garut",
+    "warning": [
+      "II Majalaya",
+      "II Bandung"
+    ]
+  },
+  {
+    "waktu": "06/10/2024 02:40:48 WIB",
+    "lintang": "6.65 LS",
+    "bujur": "106.83 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km tenggara Kota Bogor",
+    "warning": [
+      "II Bogor"
+    ]
+  },
+  {
+    "waktu": "05/10/2024 02:05:37 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
+    "warning": [
+      "II-III Cugenang",
+      "II-III Warungkondang",
+      "II-III Cilaku",
+      "II-III Cibeber",
+      "II-III Cipanas"
+    ]
+  },
+  {
+    "waktu": "04/10/2024 11:29:31 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 4.8 km barat daya Soropia",
+    "warning": [
+      "II-III Konawe"
+    ]
+  },
+  {
+    "waktu": "03/10/2024 22:07:59 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km timurlaut Tambolaka",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "03/10/2024 16:04:39 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "108.73 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km tenggara Kota Cirebon",
+    "warning": [
+      "II Kota Cirebon"
+    ]
+  },
+  {
+    "waktu": "03/10/2024 10:12:41 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.43 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Kab. Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  }
+]
