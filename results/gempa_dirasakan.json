@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/10/2024 16:14:24 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "107.7 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kab. Garut",
+    "warning": [
+      "II Pasirwangi",
+      "II Kertasari"
+    ]
+  },
+  {
     "waktu": "20/10/2024 15:22:04 WIB",
     "lintang": "0.35 LS",
     "bujur": "131.34 BT",
@@ -226,17 +238,6 @@
       "II Lombok Barat",
       "II Lombok Tengah",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "09/10/2024 18:31:46 WIB",
-    "lintang": "8.44 LS",
-    "bujur": "117.15 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Pernang",
-    "warning": [
-      "II Sumbawa"
     ]
   }
 ]
