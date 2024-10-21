@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/10/2024 16:07:45 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "120.91 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km barat laut Luwu Timur",
+    "warning": [
+      "II Mangkutana"
+    ]
+  },
+  {
     "waktu": "21/10/2024 15:24:08 WIB",
     "lintang": "1.11 LS",
     "bujur": "127.31 BT",
@@ -215,17 +226,6 @@
     "warning": [
       "III Bakauheni",
       "II Cilegon"
-    ]
-  },
-  {
-    "waktu": "17/10/2024 05:08:37 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "129 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Tenggara Masohi",
-    "warning": [
-      "II Masohi"
     ]
   }
 ]
