@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "waktu": "22/10/2024 12:16:31 WIB",
+    "lintang": "5.56 LS",
+    "bujur": "104.76 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Tenggara TANGGAMUS-LAMPUNG",
+    "warning": [
+      "I - II Limau",
+      "I - II Kota Agung"
+    ]
+  }
+]
