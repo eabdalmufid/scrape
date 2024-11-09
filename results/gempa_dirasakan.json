@@ -1,1 +1,251 @@
-[]
+[
+  {
+    "waktu": "09/11/2024 09:53:37 WIB",
+    "lintang": "1.24 LU",
+    "bujur": "121.23 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "36 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km BaratLaut Buol",
+    "warning": [
+      "III-IV Toli-toli",
+      "III-IV Buol"
+    ]
+  },
+  {
+    "waktu": "08/11/2024 23:20:11 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km BaratLaut LuwuTimur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
+    "waktu": "08/11/2024 12:51:42 WIB",
+    "lintang": "7.39 LS",
+    "bujur": "110.43 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Salatiga",
+    "warning": [
+      "II-III Kota Salatiga"
+    ]
+  },
+  {
+    "waktu": "07/11/2024 18:18:08 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.32 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km timur laut Kab. Cianjur",
+    "warning": [
+      "III Cipatat",
+      "III Cipeundeuy",
+      "III Cikalong"
+    ]
+  },
+  {
+    "waktu": "07/11/2024 17:14:36 WIB",
+    "lintang": "7.05 LS",
+    "bujur": "108.5 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kabupaten Kuningan",
+    "warning": [
+      "III Kuningan"
+    ]
+  },
+  {
+    "waktu": "07/11/2024 06:51:46 WIB",
+    "lintang": "6.39 LS",
+    "bujur": "107.32 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km tenggara Kab. Karawang",
+    "warning": [
+      "II-III Telukjambe Barat"
+    ]
+  },
+  {
+    "waktu": "06/11/2024 19:50:18 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "110.2 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 110 km Barat Daya Ketapang",
+    "warning": [
+      "II - III Kendawangan"
+    ]
+  },
+  {
+    "waktu": "06/11/2024 18:54:28 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "120.43 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km tenggara Luwu",
+    "warning": [
+      "III Belopa Utara",
+      "III Luwu"
+    ]
+  },
+  {
+    "waktu": "05/11/2024 12:03:48 WIB",
+    "lintang": "8.71 LS",
+    "bujur": "119.28 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "04/11/2024 10:26:12 WIB",
+    "lintang": "8.7 LS",
+    "bujur": "110.3 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km baratdaya Gunung Kidul",
+    "warning": [
+      "II Bantul",
+      "II Kulonprogo",
+      "II Pacitan"
+    ]
+  },
+  {
+    "waktu": "04/11/2024 04:58:33 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "120.98 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km baratlaut Luwu Timur",
+    "warning": [
+      "III-IV Malili",
+      "III-IV Mangkutana",
+      "III-IV Kalaena",
+      "III Wotu",
+      "III Angkona"
+    ]
+  },
+  {
+    "waktu": "03/11/2024 13:51:26 WIB",
+    "lintang": "0.2 LS",
+    "bujur": "100.39 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timur laut Bukittingi",
+    "warning": [
+      "I - II Bukittinggi"
+    ]
+  },
+  {
+    "waktu": "03/11/2024 06:03:25 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "116.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
+    "warning": [
+      "II Lombok Utara"
+    ]
+  },
+  {
+    "waktu": "02/11/2024 19:41:06 WIB",
+    "lintang": "0.19 LS",
+    "bujur": "100.4 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km timur laut Bukittinggi",
+    "warning": [
+      "II Bukittinggi",
+      "II Kab. 50 Kota"
+    ]
+  },
+  {
+    "waktu": "02/11/2024 17:19:44 WIB",
+    "lintang": "6.25 LS",
+    "bujur": "103.67 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km barat daya pesisir barat",
+    "warning": [
+      "II-III Liwa",
+      "II - III Krui",
+      "II - III Kota Agung",
+      "II - III Gisting",
+      "II - III Pematang Sawah",
+      "II - III Semaka",
+      "II Ngambur",
+      "II Sekincau",
+      "II - III Pesisir Selatan",
+      "II Limau"
+    ]
+  },
+  {
+    "waktu": "02/11/2024 14:20:16 WIB",
+    "lintang": "9.53 LS",
+    "bujur": "117.54 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km tenggara Sumbawa Barat",
+    "warning": [
+      "III-IV Sumbawa",
+      "III Sumbawa Barat",
+      "III Lombok Timur",
+      "II Lombok Tengah",
+      "II Kota Mataram"
+    ]
+  },
+  {
+    "waktu": "01/11/2024 22:43:24 WIB",
+    "lintang": "8.44 LS",
+    "bujur": "119.15 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km timur laut Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "01/11/2024 10:00:56 WIB",
+    "lintang": "4.39 LU",
+    "bujur": "98.1 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km timur laut Kab. Aceh Tamiang",
+    "warning": [
+      "III Aceh Tamiang"
+    ]
+  },
+  {
+    "waktu": "30/10/2024 23:32:49 WIB",
+    "lintang": "8.07 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "warning": [
+      "III Garut",
+      "III Pamengpeuk",
+      "III Bungbulang",
+      "III Cisewu",
+      "III Cilawu",
+      "II Sumedang"
+    ]
+  },
+  {
+    "waktu": "30/10/2024 02:25:16 WIB",
+    "lintang": "4.84 LS",
+    "bujur": "122.18 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 7 km Tenggara Kab.Bombana",
+    "warning": [
+      "II - III Muna Barat"
+    ]
+  }
+]
