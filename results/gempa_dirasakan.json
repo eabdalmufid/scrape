@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "29/11/2024 11:49:43 WIB",
+    "lintang": "9.07 LS",
+    "bujur": "114.65 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km barat daya Kuta Selatan Bali",
+    "warning": [
+      "III Banyuwangi",
+      "III Denpasar",
+      "III Badung"
+    ]
+  },
+  {
+    "waktu": "29/11/2024 11:16:13 WIB",
+    "lintang": "1.06 LS",
+    "bujur": "120.43 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 51 Km Baratlaut Poso",
+    "warning": [
+      "III Sausu"
+    ]
+  },
+  {
     "waktu": "29/11/2024 08:02:32 WIB",
     "lintang": "3.39 LS",
     "bujur": "115.03 BT",
@@ -200,29 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 39 km Tenggara Ende",
     "warning": [
       "II Ende"
-    ]
-  },
-  {
-    "waktu": "19/11/2024 19:28:13 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 109 km barat daya Kab. Tasikmalaya",
-    "warning": [
-      "III Ciamis",
-      "II Garut"
-    ]
-  },
-  {
-    "waktu": "18/11/2024 19:33:31 WIB",
-    "lintang": "3.78 LS",
-    "bujur": "136.11 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km timur laut Dogiyai",
-    "warning": [
-      "II - III Deiyai"
     ]
   }
 ]
