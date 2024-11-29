@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/11/2024 12:49:50 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "118.48 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "66 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km tenggara Dompu",
+    "warning": [
+      "III Sumbawa",
+      "III Dompu",
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "29/11/2024 11:49:43 WIB",
     "lintang": "9.07 LS",
     "bujur": "114.65 BT",
@@ -213,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 80 km BaratDaya Nabire",
     "warning": [
       "II - III Nabire"
-    ]
-  },
-  {
-    "waktu": "20/11/2024 03:50:45 WIB",
-    "lintang": "9.03 LS",
-    "bujur": "121.97 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "80 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km Tenggara Ende",
-    "warning": [
-      "II Ende"
     ]
   }
 ]
