@@ -3,6 +3,7 @@ const cheerio = require('cheerio')
 const fs = require('fs') 
 
 ; (async () => {
+  try {
   let response = await fetch('https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx')
   let $ = cheerio.load(await response.text())
   let result = [], uang = []
@@ -26,4 +27,5 @@ const fs = require('fs')
   }
 
   await fs.writeFileSync('./results/kurs.json', JSON.stringify(result, null, 2))
+  } catch {}
 })()
